@@ -9,7 +9,9 @@ Desenvolvido com base no projeto respeitando as exigências da atividadde e pens
 
 #### Telas principais
 
-<img src="https://github.com/KaFukuda/images/blob/main/Captura%20de%20Tela%202022-06-23%20a%CC%80s%2014.32.16.png"/>
+<!--<img src="https://github.com/KaFukuda/images/blob/main/Captura%20de%20Tela%202022-06-23%20a%CC%80s%2014.32.16.png"/>-->
+<img width="781" alt="Captura de Tela 2023-08-28 às 19 48 49" src="https://github.com/karinafukuda/not-bored/assets/71196795/52bb9f89-4a5a-4795-ab15-de494fdb0b07">
+
 
 ---
 
